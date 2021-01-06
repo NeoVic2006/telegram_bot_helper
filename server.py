@@ -1,5 +1,5 @@
 from bot import telegram_chatbot
-import config 
+
 bot = telegram_chatbot("config.cfg")
 
 
